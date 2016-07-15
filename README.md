@@ -1,10 +1,13 @@
+### Use [livereloadx](http://nitoyon.github.io/livereloadx/)
+I had some trouble getting it to work locally. Just install using the instructions. To run, call `livereloadx -s`.
+
 
 ## Change Log
 
 ### Beta 3 Changes
 
   * Compensating for AWSCLI timing issues when creating roles
-  
+
 ### Beta 2 Changes
 
   * Now using 'admin' profile instead of default profile
