@@ -1,6 +1,11 @@
 ### Use [livereloadx](http://nitoyon.github.io/livereloadx/)
 I had some trouble getting it to work locally. Just install using the instructions. To run, call `livereloadx -s`.
 
+### URL
+Production: http://learnjs.kmaia.s3-website-us-east-1.amazonaws.com/
+Staging: http://staging.learnjs.kmaia.s3-website-us-east-1.amazonaws.com/
+Testing: http://staging.learnjs.kmaia.s3-website-us-east-1.amazonaws.com/tests/index.html
+
 
 ## Change Log
 
